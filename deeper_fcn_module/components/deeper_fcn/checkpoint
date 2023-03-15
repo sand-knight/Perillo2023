@@ -1,0 +1,2 @@
+model_checkpoint_path: "deeper_fcn_weights.json"
+all_model_checkpoint_paths: "deeper_fcn_weights.json"
